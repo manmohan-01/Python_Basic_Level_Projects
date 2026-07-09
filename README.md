@@ -1,5 +1,3 @@
-# Python_Basic_Level_Projects
-
 # 🐍 Python Mini Projects
 
 A collection of beginner-friendly Python projects created while learning Python programming. These projects helped me improve my understanding of Python fundamentals such as loops, conditions, functions, modules, and user input.
